@@ -29,13 +29,20 @@ h3 {
     margin: 0;
 }
 
+.special {
+  color: gray;
+  font-size: 3em;
+  font-family: 'comic sans MS';
+  text-align: center;
+}
+
 /*******************************************
  HEADING
  ******************************************/
 
 header {
+  margin-top: -20px;
     float: left;
-    margin: 0 0 30px 0;
     padding: 5px 0 0 0;
     width: 100%;
 }

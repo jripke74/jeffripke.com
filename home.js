@@ -1,4 +1,4 @@
-const http = requeeire('http');
+const http = require('http');
 
 function handler(reg, res) {
   res.writeHead(200, {'Content-type':'text/plain'});
